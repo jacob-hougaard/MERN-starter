@@ -1,0 +1,38 @@
+[
+    {
+      "id": "product1",
+      "name": "Ristede bønnser",
+      "quantity": "200",
+      "price": "50",
+      "description": "Denne kaffe kommer fra dybt inde i eteopiens jungle. Det er nogle rigtigt gode bønner.",
+      "img": "https://www.coffeerista.com/media/catalog/product/cache/306afaffb141fdba122f8c451ec36126/l/a/lavazza_qualita_oro_250_gr_vacuum.jpg",
+      "altitude": 3000,
+      "roastProfile": 0,
+      "origin": "Etheopia",
+      "scents": ["Walnut", "Chocolate"]
+    },
+    {
+      "id": "product2",
+      "name": "Ristede bønner 2",
+      "quantity": "200",
+      "price": "50",
+      "description": "Denne kaffe kommer fra dybt inde i eteopiens jungle. Det er nogle rigtigt gode bønner.",
+      "img": "https://www.coffeedesk.com/photos/products/normal/ade114514d92aacbc1c990afdd76cdde.jpg",
+      "altitude": 12000,
+      "roastProfile": 0,
+      "origin": "Ny Guniea",
+      "scents": ["Wine", "Oak", "Caramel"]
+    },
+    {
+      "id": "product3",
+      "name": "Ristede bønner 3",
+      "quantity": "200",
+      "price": "50",
+      "description": "Denne kaffe kommer fra dybt inde i eteopiens jungle. Det er nogle rigtigt gode bønner.",
+      "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/2C08/production/_120327211_gettyimages-900233708.jpg",
+      "altitude": 8000,
+      "roastProfile": 0,
+      "origin": "Pakistan",
+      "scents": ["Fruit", "Tobacco"]
+    }
+]
